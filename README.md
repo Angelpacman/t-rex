@@ -1,13 +1,19 @@
-# README
-## This is the README for your extension "t-rex"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# T-rex
+<div align="center">
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+<img src="https://raw.githubusercontent.com/Angelpacman/t-rex/master/images/t-rex_icon.jpg" width="100" height="100">
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+This is a coloful syntax theme for Visual studio Code
+
+Based on the ATOM theme [T-rex-syntax](https://atom.io/themes/t-rex-syntax)
 
 **Enjoy!**
+
+
+</div>
+
+<img src="https://raw.githubusercontent.com/Angelpacman/t-rex/master/images/screenshot.png">
+
+---
+
+> **NOTE**: This theme looks great with fonts like JetBrains Nerdfont Mono or Fira Code
